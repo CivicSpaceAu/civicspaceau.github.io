@@ -16,6 +16,12 @@ Civic Space Australia is registered as an Incorporated Association in Australia,
 - Forums
 - Feeds
 
+### Tech Stack
+
+- ASP.Net Core
+- React
+- Azure
+
 ### Links
 
 - GitHub: [github.com/civicspaceau](https://github.com/civicspaceau)
