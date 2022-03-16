@@ -7,3 +7,6 @@ Civic Space Australia will register as an Incorporated Association, and an NFP/c
 - **Advancing culture.** Advancing culture through the use of an online platform to promote and foster local community arts and culture, and care for Australian heritage.
 - **Promoting reconciliation, mutual respect, and tolerance between groups of individuals that are in Australia.** Promote multicultural harmony through the online engagement of communities from diverse cultural backgrounds.
 - **Advancing the natural environment.** Advancing the natural environment through providing online collaboration tools for environmental activities conducted by members of the local community.
+
+Facebook: [facebook.com/civicspaceau](https://facebook.com/civicspaceau)
+Twitter: [twitter.com/civicspaceau](https://twitter.com/civicspaceau)
