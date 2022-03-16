@@ -18,6 +18,6 @@ Civic Space Australia is registered as an Incorporated Association, and an NFP/c
 
 ### Links
 
-- Github: [github.com/civicspaceau](https://github.com/civicspaceau)
+- GitHub: [github.com/civicspaceau](https://github.com/civicspaceau)
 - Facebook: [facebook.com/civicspaceau](https://facebook.com/civicspaceau)
 - Twitter: [twitter.com/civicspaceau](https://twitter.com/civicspaceau)
