@@ -6,6 +6,7 @@ Civic Space Australia is registered as an Incorporated Association in Australia,
 
 - **Advancing culture.** Advancing culture through the use of an online platform to promote and foster local community arts and culture, and care for Australian heritage.
 - **Promoting reconciliation, mutual respect, and tolerance between groups of individuals that are in Australia.** Promote multicultural harmony through the online engagement of communities from diverse cultural backgrounds.
+- **Promoting or protecting human rights.** Promote human rights through raising awareness of human rights issues by providing human rights organisations an online platform to educate the public.
 - **Advancing the natural environment.** Advancing the natural environment through providing online collaboration tools for environmental activities conducted by members of the local community.
 
 ### Features
