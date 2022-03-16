@@ -2,7 +2,7 @@
 
 [Civic Space Australia](https://civicspace.com.au) is a not-for-profit local community social media platform.
 
-Civic Space Australia is registered as an Incorporated Association, and an NFP/charity under ACNC, with the following subtypes:
+Civic Space Australia is registered as an Incorporated Association in Australia, and an NFP/charity under ACNC, with the following subtypes:
 
 - **Advancing culture.** Advancing culture through the use of an online platform to promote and foster local community arts and culture, and care for Australian heritage.
 - **Promoting reconciliation, mutual respect, and tolerance between groups of individuals that are in Australia.** Promote multicultural harmony through the online engagement of communities from diverse cultural backgrounds.
