@@ -17,5 +17,5 @@ Civic Space Australia is registered as an Incorporated Association, and an NFP/c
 
 ### Social
 
-Facebook: [facebook.com/civicspaceau](https://facebook.com/civicspaceau)
-Twitter: [twitter.com/civicspaceau](https://twitter.com/civicspaceau)
+- Facebook: [facebook.com/civicspaceau](https://facebook.com/civicspaceau)
+- Twitter: [twitter.com/civicspaceau](https://twitter.com/civicspaceau)
