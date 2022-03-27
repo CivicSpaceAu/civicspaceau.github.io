@@ -1,6 +1,6 @@
 ## Civic Space Australia
 
-[Civic Space Australia](https://civicspace.com.au) is a not-for-profit local community social media platform.
+[Civic Space Australia](https://civicspace.au) is a not-for-profit local community social media platform.
 
 Civic Space Australia is registered as an Incorporated Association in Australia, and an NFP/charity under the [Australian Charities and Not-for-Profits Commission](https://www.acnc.gov.au/), with the following subtypes:
 
@@ -27,5 +27,6 @@ Civic Space Australia is registered as an Incorporated Association in Australia,
 ### Links
 
 - GitHub: [github.com/civicspaceau](https://github.com/civicspaceau)
+- Medium: [medium.com/civicspaceau](https://medium.com/@civicspaceau)
 - Facebook: [facebook.com/civicspaceau](https://facebook.com/civicspaceau)
 - Twitter: [twitter.com/civicspaceau](https://twitter.com/civicspaceau)
