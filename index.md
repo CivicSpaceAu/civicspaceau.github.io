@@ -1,6 +1,6 @@
 ## Civic Space Australia
 
-[Civic Space Australia](https://civicspace.au) is a not-for-profit local community social media platform.
+[Civic Space Australia](https://civicspace.au) is a not-for-profit local community social media platform, powered by Civic Space Software.
 
 Civic Space Australia is registered as an Incorporated Association in Australia, and an NFP/charity under the [Australian Charities and Not-for-Profits Commission](https://www.acnc.gov.au/), with the following subtypes:
 
@@ -8,7 +8,9 @@ Civic Space Australia is registered as an Incorporated Association in Australia,
 - **Promoting reconciliation, mutual respect, and tolerance between groups of individuals that are in Australia.** Promote multicultural harmony through the online engagement of communities from diverse cultural backgrounds.
 - **Advancing the natural environment.** Advancing the natural environment through providing online collaboration tools for environmental activities conducted by members of the local community.
 
-### Features
+### About Civic Space Software
+
+#### Features
 
 - Individual and entity profile pages
 - Blogs
@@ -16,7 +18,7 @@ Civic Space Australia is registered as an Incorporated Association in Australia,
 - Forums
 - Feeds
 
-### Tech Stack
+#### Tech Stack
 
 - [ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0), with [FullStackHero](https://fullstackhero.net/)
 - [React](https://reactjs.org/), with [Redux Toolkit](https://redux-toolkit.js.org/)
