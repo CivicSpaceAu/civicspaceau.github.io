@@ -1,8 +1,8 @@
 ## Civic Space Australia
 
-[Civic Space Australia](https://civicspace.au) is a not-for-profit local community social media platform, powered by Civic Space Software.
+[Civic Space Australia](https://civicspace.au) is registered as an Incorporated Association in Australia, and operates a not-for-profit local community social media platform, powered by Civic Space Software.
 
-Civic Space Australia is registered as an Incorporated Association in Australia, established for the following purpose:
+It has the following purpose:
 
 - **Advancing culture.** Advancing culture through the use of online platforms to promote and foster local community arts and culture, and care for Australian heritage.
 - **Promoting reconciliation, mutual respect, and tolerance between groups of individuals that are in Australia.** Promote multicultural harmony through the online engagement of communities from diverse cultural backgrounds.
